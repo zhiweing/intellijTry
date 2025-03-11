@@ -20,6 +20,7 @@ public class Student {
     private LocalDate dob;
     private String gender;
     private String height;
+    private int length;
 
     public Student(){
 
