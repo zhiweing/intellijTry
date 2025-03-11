@@ -8,6 +8,10 @@ import java.time.LocalDate;
 @Entity  //For hibernate purpose
 @Data
 @Table
+
+//try for pull requests
+//try j
+
 public class Student {
     @Id
     @Column(name = "ID")
