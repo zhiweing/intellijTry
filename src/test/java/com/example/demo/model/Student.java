@@ -10,7 +10,7 @@ import java.time.LocalDate;
 @Table
 
 //try for pull requests
-//try
+//try j
 
 public class Student {
     @Id
