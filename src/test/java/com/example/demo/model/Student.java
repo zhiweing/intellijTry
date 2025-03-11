@@ -19,6 +19,7 @@ public class Student {
     private String password;
     private LocalDate dob;
     private String gender;
+    private String height;
 
     public Student(){
 
